@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack Development<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with <br>🌱 I’m currently learning django<br>💬 Ask me about myself<br>⚡ Fun fact- I'm always bored
+🔭 I’m currently working on Full-stack Development🌱 I’m currently learning django<br>💬 Ask me about myself<br>⚡ Fun fact- I'm always bored
 
 
 ## 🌐 Socials:
